@@ -193,7 +193,7 @@ fn main() {
     let mut interpreter = Interpreter::new();
     let mut input = String::new();
 
-    println!("Rust interpreter ei apnar sagoto. Shuru kora jak:");
+    println!("Bangali compiler ei apnar Sagoto. Shuru kora jak:");
 
     loop {
         print!("> ");
