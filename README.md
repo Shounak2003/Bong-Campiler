@@ -12,7 +12,7 @@
 - Print values with the `bol` command.
 - Conditional statements with the `jodi` command.
 - Loop statements with the `jotokhun` command.
-- Exit the interpreter with the `gand mara` command.
+- Exit the compiler with the `gand mara` command.
 
   ## Installation
 
