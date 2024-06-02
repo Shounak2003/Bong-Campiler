@@ -48,11 +48,74 @@ cargo run
 Here are some example commands you can use in the interpreter:
 
 ## Variable Assignment
+Assign a number to a variable:
 ```sh
 > chol count = 1
 
 
 ```
+Assign a string to a variable:
+```sh
+> chol name = "Shounak"
 
 ```
+
+## Print Variable
+Print the value of a variable:
+```sh
+> bol count
+
+```
+
+## Conditional Statement
+Print a value if a condition is met:
+```sh
+> jodi count == 1 bol "Count is one"
+
+```
+
+## Loop Statement
+Execute a block of commands while a condition is true:
+```sh
+> chol count = 1
+> jotokhun count <= 5 obdhi
+| bol count
+| chol count = count + 1
+|
+
+```
+
+## Exit Command
+Exit the interpreter:
+```sh
+> gand mara
+
+```
+
+## Example Session
+```sh
+Welcome to the Rust Interpreter. Type your commands:
+> chol count = 1
+> jotokhun count <= 5 obdhi
+| bol count
+| chol count = count + 1
+|
+1
+2
+3
+4
+5
+> gand mara
+
+```
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request or open an issue to discuss what you would like to change.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgements
+Special thanks to the Rust community and the creators of the dependencies used in this project.
+
 
