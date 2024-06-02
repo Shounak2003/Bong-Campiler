@@ -1,4 +1,4 @@
-<h2 align="center"><u>Calculator Compiler</u></h2>
+<h2 align="center"><u>Bengali Compiler</u></h2>
 
 <h4 align="center"> This repository contains a simple compiler for a calculator-like language written in Rust. The compiler consists of a lexical analyzer (tokenizer) that can recognize numbers and arithmetic operators (+, -, *, /). </h4>
 
