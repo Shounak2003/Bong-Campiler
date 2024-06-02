@@ -37,7 +37,22 @@ cargo build
   ## Run the project
 
 ```sh
+
+
+
 cargo run
+
+```
+
+## Usage
+Here are some example commands you can use in the interpreter:
+
+## Variable Assignment
+```sh
+> chol count = 1
+
+
+```
 
 ```
 
