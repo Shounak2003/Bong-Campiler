@@ -22,11 +22,19 @@
 ```sh
 git clone https://github.com/Shounak2003/Bong-Campiler.git
 cd Bong-Compiler
+```
 
 ## Build the project
 
+```sh
+
 cargo build
+```
 
 ## Run the project
 
+```sh
 cargo run
+
+```
+
