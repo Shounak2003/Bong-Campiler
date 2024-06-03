@@ -94,7 +94,7 @@ Exit bong compiler:
 
 ## Example Session
 ```sh
-Bong Compiler ei sagoto:
+Bong compiler ei apnar Sagoto. Shuru kora jak:
 > chol count = 1
 > jotokhun count <= 5 obdhi
 | bol count
