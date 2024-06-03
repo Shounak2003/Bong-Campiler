@@ -45,7 +45,7 @@ cargo run
 ```
 
 ## Usage
-Here are some example commands you can use in the interpreter:
+Here are some example commands you can use in the bong compiler:
 
 ## Variable Assignment
 Assign a number to a variable:
@@ -86,7 +86,7 @@ Execute a block of commands while a condition is true:
 ```
 
 ## Exit Command
-Exit the interpreter:
+Exit bong compiler:
 ```sh
 > gand mara
 
@@ -94,7 +94,7 @@ Exit the interpreter:
 
 ## Example Session
 ```sh
-Welcome to the Rust Interpreter. Type your commands:
+Bong Compiler ei sagoto:
 > chol count = 1
 > jotokhun count <= 5 obdhi
 | bol count
