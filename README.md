@@ -59,6 +59,34 @@ Assign a string to a variable:
 > chol name = "Shounak"
 
 ```
+## Input Statements
+Integer Input:
+```sh
+> anko user_number
+42
+```
+String Input:
+```sh
+> shobdo user_string
+hello
+```
+## Arrays
+For Integers:
+```sh
+> chol numbers[3] = [10, 20, 30]
+> bol numbers
+[10.0, 20.0, 30.0]
+> bol numbers[1]
+20.0
+```
+For Strings:
+```sh
+> chol letters[3] = [a, b, c]
+> bol letters
+[a, b, c]
+> bol letters[1]
+b
+```
 
 ## Print Variable
 Print the value of a variable:
@@ -84,6 +112,7 @@ Execute a block of commands while a condition is true:
 |
 
 ```
+
 
 ## Exit Command
 Exit bong compiler:
