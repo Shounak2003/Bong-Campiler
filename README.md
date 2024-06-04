@@ -73,7 +73,7 @@ hello
 ## Arrays
 For Integers:
 ```sh
-> chol numbers[3] = [10, 20, 30]
+> chol numbers = [10, 20, 30]
 > bol numbers
 [10.0, 20.0, 30.0]
 > bol numbers[1]
@@ -81,7 +81,7 @@ For Integers:
 ```
 For Strings:
 ```sh
-> chol letters[3] = [a, b, c]
+> chol letters = [a, b, c]
 > bol letters
 [a, b, c]
 > bol letters[1]
