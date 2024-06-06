@@ -20,7 +20,7 @@
   Clone the repository:
 
 ```sh
-git clone https://github.com/Shounak2003/Bong-Campiler.git
+git clone https://github.com/Shounak2003/Bong-Compiler.git
 cd Bong-Compiler
 ```
 
